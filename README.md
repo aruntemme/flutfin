@@ -1,8 +1,7 @@
-# flutfin
+## flutfin
 
-#Work In Progress
+# Work In Progress
 
-A new Flutter project.
 
 
 --------------------------------------------------------------------
